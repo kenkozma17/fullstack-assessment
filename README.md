@@ -25,7 +25,7 @@ php artisan key:generate
 
 7. In the .env file, add your database configuration.
 
-8. Run database migrations for the contact form database.
+8. Run database migrations for the database you made.
 ```
 php artisan migrate
 ```
